@@ -1,0 +1,1 @@
+Kayitlar.txt dosyası doc klasörünün içine koyulmuştur.
