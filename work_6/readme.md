@@ -1,0 +1,1 @@
+Konsol ekranında oynanabilen ufak bir oyun.
