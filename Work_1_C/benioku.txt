@@ -1,0 +1,1 @@
+Json dosyaları doc klasörünün içine koyulmuştur.

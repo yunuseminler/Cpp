@@ -1,0 +1,1 @@
+C dili ile yazılmış hisse hesaplaması yapan program
